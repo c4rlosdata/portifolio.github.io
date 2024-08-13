@@ -28,6 +28,32 @@ Welcome to my project repository! Here you will find a collection of projects I'
 - **Technologies**: Python, Football APIs, Telegram API
 - **Objective**: Automate the analysis of games and the communication of strategies for traders.
 
+Aqui está a descrição que você pode inserir no `README.md` do seu repositório para o projeto de previsão de preços de imóveis:
+
+---
+
+### 5 **House Price Prediction with Linear Regression**
+
+**Description**: This project focuses on predicting house prices in Boston using Linear Regression. The model is trained on the well-known Boston Housing dataset, which includes various features such as the number of rooms, crime rate, and proximity to the Charles River, among others. The goal is to create a predictive model that can estimate the price of a house based on these features.
+
+**Key Features**:
+- **Data Analysis**: The project begins with an exploratory data analysis (EDA) to understand the distribution of house prices and the relationships between features.
+- **Preprocessing**: The dataset is split into training and testing sets, and features are standardized to improve model performance.
+- **Model Training**: A Linear Regression model is trained on the standardized data.
+- **Evaluation**: The model's performance is evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+- **Visualization**: The project includes visualizations that compare actual vs. predicted prices and showcase the importance of each feature in predicting house prices.
+
+**Technologies**:
+- **Python**: The primary programming language used in the project.
+- **Pandas & NumPy**: Used for data manipulation and numerical computations.
+- **Scikit-Learn**: Utilized for model training and evaluation.
+- **Matplotlib & Seaborn**: Employed for data visualization.
+
+**Objective**: The primary objective of this project is to develop a reliable model for predicting house prices and to explore the significance of various features in influencing these prices. This project showcases practical applications of machine learning techniques in real-world scenarios.
+
+---
+
+
 ## 📚 Tools and Technologies
 
 - **Python**: The main programming language used in all projects.
