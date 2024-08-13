@@ -35,8 +35,6 @@ Welcome to my project repository! Here you will find a collection of projects I'
 - **VBA**: Used for spreadsheet automation and process management in Excel.
 - **Generative AI**: Implementation of machine learning techniques to create intelligent solutions.
 
-## 💬 Contact
-
 - **LinkedIn**: [Carlos Augusto Rangel do Nascimento](https://www.linkedin.com/in/carlos-augusto-nascimento-desenvolvedor-python/)
 - **Email**: carlos.a.r.n@hotmail.com
 
