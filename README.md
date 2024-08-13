@@ -28,10 +28,6 @@ Welcome to my project repository! Here you will find a collection of projects I'
 - **Technologies**: Python, Football APIs, Telegram API
 - **Objective**: Automate the analysis of games and the communication of strategies for traders.
 
-Aqui está a descrição que você pode inserir no `README.md` do seu repositório para o projeto de previsão de preços de imóveis:
-
----
-
 ### 5 **House Price Prediction with Linear Regression**
 
 **Description**: This project focuses on predicting house prices in Boston using Linear Regression. The model is trained on the well-known Boston Housing dataset, which includes various features such as the number of rooms, crime rate, and proximity to the Charles River, among others. The goal is to create a predictive model that can estimate the price of a house based on these features.
